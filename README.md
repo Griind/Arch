@@ -1,0 +1,6 @@
+# Arch
+dotnet 2.0 architecture
+IDENTITYSERVER 4
+ANGULAR
+ASP.NET
+PASTGRESQL
